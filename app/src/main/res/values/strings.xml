@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Quiz1 Hoyos_Chavez</string>
+
+    <string name="tv_status_main">Bienvenido al sistema de login a otro nivel</string>
+    <string name="hint_userform_name">Usuario</string>
+    <string name="hint_userform_password">Contraseña</string>
+    <string name="btn_title_userform">Ingresar</string>
+
+
+
+    <string name="btn_title_cerrar">Cerrar Sesion</string>
+</resources>
